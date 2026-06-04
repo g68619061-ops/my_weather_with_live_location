@@ -215,6 +215,7 @@ body {
     }
 
     #condition {
+        text-transform: capitalize;
         color: rgb(54, 54, 54);
         font-size: 12vw;
     }
